@@ -1,6 +1,7 @@
-# Contatos
+# Hey there! I'm Lucas Vitor. 😄
 
 <div align="center">
+  <p>Contacts</p>
   <a href="mailto:lucasact4@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
   <a href="https://www.instagram.com/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
