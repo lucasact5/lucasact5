@@ -2,7 +2,7 @@
 ![4M7IWwP](https://github.com/lucasact4/lucasact4/blob/main/4M7IWwP.gif)
 
 > About Me
-I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
+- I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
 
 
 > Contacts:
