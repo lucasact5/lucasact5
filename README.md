@@ -8,7 +8,9 @@
 ##
 
 > Contacts:
+<img src="https://img.shields.io/badge/%E2%9D%A4-i_love_to_code-E46C17?logo=&style=for-the-badge&labelColor=D35B09>
 <div align="center">
+  <img src="https://img.shields.io/badge/%E2%9D%A4-i_love_to_code-E46C17?logo=&style=for-the-badge&labelColor=D35B09>
   <a href="mailto:lucasact4@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
   <a href="https://www.instagram.com/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
