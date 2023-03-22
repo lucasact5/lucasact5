@@ -16,18 +16,16 @@
     <td>
       <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
     </td>
+  </tr>
+</table>
+
+<table align="center">
+  <tr>
     <td>
       <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
     </td>
   </tr>
 </table>
-
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="border: 1px solid #e1e4e8; border-radius: 6px; display: flex; justify-content: space-between; align-items: center; padding: 16px;">
-    <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
-    <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
-  </div>
-</div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
