@@ -2,7 +2,7 @@
 
 > About Me
 - I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
-
+#
 <img src="https://img.shields.io/badge/%E2%9D%A4-i_love_to_code-E46C17?logo=&style=for-the-badge&labelColor=D35B09>
 
 ##
