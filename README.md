@@ -27,17 +27,17 @@
   </tr>
 </table>
 
-<div style="display:inline" align="center">
-  <table style="display:inline">
-    <tr style="display:inline">
-      <td style="display:inline">
+<div display="inline" align="center">
+  <table display="inline">
+    <tr display="inline">
+      <td display="inline">
         <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
       </td>
     </tr>
   </table>
-  <table style="display:inline">
-    <tr style="display:inline">
-      <td style="display:inline">
+  <table display="inline">
+    <tr display="inline">
+      <td display="inline">
         <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
       </td>
     </tr>
