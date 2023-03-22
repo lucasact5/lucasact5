@@ -19,7 +19,7 @@
   </tr>
 </table>
 
-<table align="center">
+<table display="inline">
   <tr>
     <td>
       <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
