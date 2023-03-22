@@ -4,6 +4,7 @@
 > About Me
 - I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
 
+##
 
 > Contacts:
 <div align="center">
@@ -33,6 +34,8 @@
   </tr>
 </table>
     
+##
+    
 > Tecnologies:
 <div style="display: inline_block" align="center"><br>
   <code><img height="20" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
@@ -52,8 +55,7 @@
   <code><img height="20" alt="Ruby" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png"></code>
 </div>
 
-    
-  ##
+##
  
 <div>
   
@@ -61,4 +63,5 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
 ![4M7IWwP](https://github.com/lucasact4/lucasact4/blob/main/4M7IWwP.gif)
