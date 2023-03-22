@@ -1,7 +1,7 @@
+## Hey there! I'm Lucas Vitor. 😄
 ![4M7IWwP](https://github.com/lucasact4/lucasact4/blob/main/4M7IWwP.gif)
 
 > About Me
-## Hey there! I'm Lucas Vitor. 😄
 I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
 
 
