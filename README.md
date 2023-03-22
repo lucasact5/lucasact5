@@ -22,57 +22,15 @@
   </tr>
 </table>
 
-<style>
-  table {
-    width: 100%;
-  }
-  @media (max-width: 768px) {
-    table, thead, tbody, th, td, tr {
-      display: block;
-    }
-    tr {
-      border: 1px solid #ccc;
-    }
-    td {
-      border: none;
-      position: relative;
-      padding-left: 50%;
-    }
-    td:before {
-      position: absolute;
-      top: 6px;
-      left: 6px;
-      width: 45%;
-      padding-right: 10px;
-      white-space: nowrap;
-      content: attr(data-column);
-      color: #000;
-      font-weight: bold;
-    }
-  }
-</style>
-
-<table align="center">
-  <thead>
-    <tr>
-      <th>Stats</th>
-      <th>Top Languages</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-column="Stats">
-        <a href="https://github.com/lucas/github-readme-stats">
-          <img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" />
-        </a>
-      </td>
-      <td data-column="Top Languages">
-        <a href="https://github.com/lucasact4/github-readme-stats">
-          <img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" />
-        </a>
-      </td>
-    </tr>
-  </tbody>
+<table align="center" style="max-width: 600px; width: 100%; margin: auto;">
+  <tr>
+    <td style="width: 50%; max-width: 300px;">
+      <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
+    </td>
+    <td style="width: 50%; max-width: 300px;">
+      <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
+    </td>
+  </tr>
 </table>
     
 <div style="display: inline_block"><br>
