@@ -6,6 +6,7 @@
   <a href="https://www.linkedin.com/in/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href="https://api.whatsapp.com/send/?phone=5581984414760&text&type=phone_number&app_absent=0" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
   <a href="https://discord.com/invite/n4E9VPT" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://lucasact4.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <br>
