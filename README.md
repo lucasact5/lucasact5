@@ -2,8 +2,9 @@
 
 > About Me
 - I am a young programmer seeking knowledge, with great ease in learning new technologies and always striving to improve myself.
->
+
 <img src="https://github.com/lucasact4/lucasact4/blob/7de6f7d35c39c59332a98bc48e0c1bbbec57ee33/%E2%9D%A4-i_love_to_code-E46C17.svg">
+
 ##
 
 > Contacts:
