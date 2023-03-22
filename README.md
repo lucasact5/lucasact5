@@ -6,14 +6,16 @@
   <a href = "mailto:lucasact4@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href = "https://api.whatsapp.com/send/?phone=5581984414760&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
+
 <br>
+
 <div align="center">
   <a href="https://github.com/lucasact4">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   />
   
   <a href="https://github.com/lucasact4/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=buefy&hide_border=true"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=darkfy&hide_border=true"
   />
 </div>
     
