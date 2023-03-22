@@ -1,7 +1,7 @@
-# Hey there! I'm Lucas Vitor. 😄
+## Hey there! I'm Lucas Vitor. 😄
 
+> Contacts:
 <div align="center">
-  <p>Contacts</p>
   <a href="mailto:lucasact4@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
   <a href="https://www.instagram.com/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
   <a href="https://www.linkedin.com/in/lucasact4/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
@@ -28,6 +28,7 @@
   </tr>
 </table>
     
+> Tecnologies:
 <div style="display: inline_block" align="center"><br>
   <code><img height="20" alt="Git" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></code>
   <code><img height="20" alt="GitHub" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></code>
