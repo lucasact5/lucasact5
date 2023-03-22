@@ -22,13 +22,20 @@
   </tr>
 </table>
 
-<table align="center" style="max-width: 600px; width: 100%; margin: auto;">
+<table align="center">
   <tr>
-    <td style="width: 50%; max-width: 300px;">
+    <td colspan="2">
       <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
     </td>
-    <td style="width: 50%; max-width: 300px;">
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/lucasact4/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false" /></a>
+    </td>
+    <td>
+      <div align="center">
+        <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=lucasact4&theme=dark&hide_border=false" alt="lucasact4 streak stats" />
+      </div>
     </td>
   </tr>
 </table>
