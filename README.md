@@ -11,7 +11,7 @@
 
 <br>
 
-<table style="backgorund-color: #000;" align="center">
+<table display="inline">
   <tr>
     <td>
       <a href="https://github.com/lucas/github-readme-stats"><img height="160" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasact4&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="lucasact4 github stats" /></a>
