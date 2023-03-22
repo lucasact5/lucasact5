@@ -16,7 +16,7 @@
   />
   
   <a href="https://github.com/lucasact4/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=true"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasact4&layout=compact&theme=dark&hide_border=false"
   />
 </div>
     
